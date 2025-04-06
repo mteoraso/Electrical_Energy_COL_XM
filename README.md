@@ -1,2 +1,2 @@
 # Energia_electrica_COL_XM
-Tematicas en torno al mercado electrico Colombiano
+Exploratory and statistical analysis of the Colombian electricity sector, for the understanding and construction of predictive models
